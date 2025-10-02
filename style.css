@@ -6,14 +6,7 @@ h1{
 }
 h2{
     font-weight: bold;
-    border: 2px solid #7085b5;
-    background: #75b570;
 }
 h3{
     font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
-}
-
-span{
-    background: #fffd99;
-    border: 2px dotted black;
 }
