@@ -9,6 +9,22 @@ nav{
     background: white;
     margin: 50px;
     text-align: center;
+    display: flex;
+}
+.container
+{
+    display: flex;
+    background: white;
+    margin-bottom: 30px;
+}
+.container > div{
+    padding: 20px;
+    margin: 20px;
+    background: #ffee9c;
+    border: dotted black;
+    text-align: center;
+    font-size: 30px;
+    
 }
 h2{
     font-weight: bold;
