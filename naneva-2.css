@@ -5,27 +5,26 @@ h1{
     color: red;
     padding: 50px;
 }
-nav{
-    background: white;
-    margin: 50px;
-    text-align: center;
-    display: flex;
-}
-.container
+
+nav
 {
     display: flex;
     background: white;
     margin-bottom: 30px;
+    flex-direction: row;
+    
 }
-.container > div{
+li{
+    display: inline;
     padding: 20px;
     margin: 20px;
     background: #ffee9c;
     border: dotted black;
     text-align: center;
     font-size: 30px;
-    
 }
+    
+
 h2{
     font-weight: bold;
     border: 2px solid #7085b5;
