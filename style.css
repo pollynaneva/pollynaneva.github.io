@@ -1,4 +1,4 @@
-/* reset & fonts */
+/* reset & fonts
 * {
   margin: 0;
   padding: 0;
@@ -16,7 +16,7 @@ body {
 }
 
 /* header */
-header {
+/* header {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -42,7 +42,7 @@ nav a:hover {
 }
 
 /* sections */
-section {
+/* section {
   margin-bottom: 3rem;
 }
 
@@ -65,11 +65,11 @@ h2 {
 
 .project a:hover {
   text-decoration: underline;
-}
+} */ */
 
 /* footer */
-footer {
+/* footer {
   text-align: center;
   font-size: 0.9rem;
   color: #666;
-}
+} */ 
